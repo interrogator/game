@@ -7,7 +7,7 @@ Key specs:
 * Python 3
 * Django
 * MySQL
-* Dockerised
+* Docker
 * CI and unittests
 * Zenodo
 
